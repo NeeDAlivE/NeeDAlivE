@@ -71,17 +71,17 @@ Contact Me
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="56" height="56" alt="VS Code" />
   </a>
 
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tableau-colored.svg" width="56" height="56" alt="Tableau" />
-</a>
+  </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/powerbi-colored.svg" width="56" height="56" alt="Power BI" />
-</a>
+  </a>
 </div>
 
 # 🧠 Learning :
 <div align="center">
- <a href="https://www.salesforce.com/trailblazer/sathaporn" target="_blank" rel="noreferrer">
+  <a href="https://www.salesforce.com/trailblazer/sathaporn" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/salesforce-colored.svg" width="56" height="56" alt="Salesforce" />
   </a>
 
