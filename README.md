@@ -66,7 +66,7 @@ Contact Me
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="56" height="56" alt="VS Code" />
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" width="56" height="56" alt="Tableau" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tableau-colored.svg" width="56" height="56" alt="Tableau" />
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="56" height="56" alt="Power BI" />
