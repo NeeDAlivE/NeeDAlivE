@@ -67,20 +67,17 @@ Contact Me
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="56" height="56" alt="VS Code" />
   </a>
-
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tableau-colored.svg" width="56" height="56" alt="Tableau" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" width="56" height="56" alt="Tableau" />
   </a>
-  
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/powerbi-colored.svg" width="56" height="56" alt="Power BI" />
+    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="56" height="56" alt="Power BI" />
   </a>
 </div>
 
 # 🧠 Learning :
 <div align="center">
   <a href="https://www.salesforce.com/trailblazer/sathaporn" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/salesforce-colored.svg" width="56" height="56" alt="Salesforce" />
-  </a>
-
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" width="56" height="56" alt="Salesforce" />
+</a>
 </div>
