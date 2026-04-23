@@ -5,7 +5,7 @@
 - Faculty : Science at Sriracha
 - Department : Computer Science and Information Technology
 - Major : Computer Science
-- GPA : 2.8
+- GPA : 2.94
 
 Contact Me
 --
